@@ -1,0 +1,29 @@
+{
+  "name": "platzom",
+  "version": "0.1.0",
+  "description": "Platzom translator",
+  "main": "dist/src/platzom.js",
+  "scripts": {
+    "build": "babel src/platzom.js -d dist",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://guthub.com/EstebanVictorio/SVPlatzom"
+  },
+  "keywords": [
+    "platzom",
+    "platzi",
+    "basics",
+    "javascript",
+    "js"
+  ],
+  "author": "Esteban Victorio <stephanvictory@gmail.com> (https://facebook.com/estebanbvictorio)",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "chai": "^4.1.2",
+    "mocha": "^4.1.0"
+  }
+}
