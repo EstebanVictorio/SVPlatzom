@@ -1,5 +1,5 @@
 {
-  "name": "@stephanVictory/platzom",
+  "name": "@stephanvictory/platzom",
   "version": "0.1.0",
   "description": "Platzom translator",
   "main": "dist/src/platzom.js",
